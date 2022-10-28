@@ -1,0 +1,50 @@
+[
+   {
+      "id": 1,
+      "price": 2900,
+      "title": "Printed Embroidered Lawn",
+      "img": "/card1.webp"
+   },
+   {
+      "id": 2,
+      "price": 2980,
+      "title": "Dyed Embroidered Mesuri",
+      "img": "/card2.jpg"
+   },
+   {
+      "id": 3,
+      "price": 2980,
+      "title": "Dyed Embroidered Mesuri",
+      "img": "/card3.jpg"
+   },
+   {
+      "id": 4,
+      "price": 3980,
+      "title": "Printed Lawn",
+      "img": "/card4.webp"
+   },
+   {
+      "id": 5,
+      "price": 3980,
+      "title": "Printed Lawn",
+      "img": "/card5.webp"
+   },
+   {
+      "id": 6,
+      "price": 3000,
+      "title": "Printed Embroidered Lawn",
+      "img": "/card6.webp"
+   },
+   {
+      "id": 7,
+      "price": 2080,
+      "title": "Printed Embroidered Lawn",
+      "img": "/card7.webp"
+   },
+   {
+      "id": 8,
+      "price": 20000,
+      "title": "Printed Embroidered Lawn",
+      "img": "/card8.webp"
+   }
+]
